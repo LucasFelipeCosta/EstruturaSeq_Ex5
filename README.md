@@ -1,2 +1,2 @@
-# EstruturaSeq_Ex5
+# Estrutura Sequencial
 5. Faça um Programa que converta metros para centímetros.
